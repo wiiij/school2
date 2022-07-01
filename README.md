@@ -10,7 +10,7 @@ jquery를 사용하여 먼저 이미지의 수 랑 위치를 지정해, slide에
 지정한 시간이 지나, margin-left를 0으로 초기화 시켜 화면에 보여주게 된다. <br>
 start에서 3초마다 slide를 사용한다. 이렇게 화면에서 3초마다 이미지가 넘어가게 된다. <br>
 ![image](https://user-images.githubusercontent.com/102115231/176827551-56d9ca52-62c3-4914-b556-ac5f75ef6743.png) <br>
-![image](https://user-images.githubusercontent.com/102115231/176827624-73ebf5a6-ef11-452d-84bb-ced271f340c1.png) <br>
+
 테이블을 만들어서 글을쓰고 링크를 연결시켜 주었습니다.<br>
  그리고 footer에 이미지를 넣어 끝을 냈습니다. <br>
  
